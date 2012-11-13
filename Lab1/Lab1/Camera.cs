@@ -8,7 +8,7 @@ namespace Lab1
 {
     class Camera
     {
-
+        //Hej
         internal Vector2 getViewCoordinatesWhite(int model_x, int model_y)
         {
             int sizeOfTile = 64;
